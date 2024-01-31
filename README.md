@@ -1,5 +1,5 @@
 ### ds-2023
-Repositório para o Projeto da Disciplína de Domínios de Software:
+Repositório para o Projeto da Disciplina de Domínios de Software:
 
 A aplicação de Lista de Tarefas foi projetada para ser a solução para a desorganização e sobrecarga de tarefas.
 
